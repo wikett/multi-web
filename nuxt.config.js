@@ -10,7 +10,13 @@ export default {
     trailingSlash: true,
   },
 
-  // Global page headers: https://go.nuxtjs.dev/config-head
+  env: {
+    websiteName: 'Top Peceras',
+    websiteUrl: 'www.toppeceras.es',
+    emailContacto: 'chato@gmail.com',
+    ceo: 'Julian García',
+  },
+
   head: {
     title: 'multi-web',
     meta: [
@@ -49,8 +55,15 @@ export default {
     '@nuxtjs/axios',
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxtjs/gtm',
+    'cookie-universal-nuxt',
   ],
+
+  gtm: {
+    enabled: true,
+    autoInit: false,
+  },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},

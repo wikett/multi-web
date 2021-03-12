@@ -73,11 +73,15 @@
                 class="block w-auto h-8 lg:hidden"
                 src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
                 alt="Workflow"
+                height="32"
+                width="35"
               />
               <img
                 class="hidden w-auto h-8 lg:block"
                 src="https://tailwindui.com/img/logos/workflow-logo-indigo-600-mark-gray-800-text.svg"
                 alt="Workflow"
+                height="143"
+                width="32"
               />
             </nuxt-link>
           </div>
@@ -159,10 +163,10 @@
     <div v-show="isMenuOpened" class="sm:hidden" id="mobile-menu">
       <div class="pt-2 pb-4 space-y-1">
         <!-- Current: "bg-indigo-50 border-indigo-500 text-indigo-700", Default: "border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700" -->
-        <a
-          href="#"
+        <nuxt-link
+          to="/contacto"
           class="block py-2 pl-3 pr-4 text-base font-medium text-indigo-700 border-l-4 border-indigo-500 bg-indigo-50"
-          >Dashboard</a
+          >Contacto</nuxt-link
         >
         <a
           href="#"
