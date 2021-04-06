@@ -71,14 +71,14 @@
             >
               <img
                 class="block w-auto h-8 lg:hidden"
-                src="~/static/logo-square.png"
+                src="~/assets/img/logo-square.png"
                 alt="Workflow"
                 height="32"
                 width="35"
               />
               <img
                 class="hidden w-auto h-8 lg:block"
-                src="~/static/logo.png"
+                src="~/assets/img/logo.png"
                 alt="Workflow"
                 height="143"
                 width="32"
