@@ -71,14 +71,14 @@
             >
               <img
                 class="block w-auto h-8 lg:hidden"
-                src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
+                src="~/static/logo-square.png"
                 alt="Workflow"
                 height="32"
                 width="35"
               />
               <img
                 class="hidden w-auto h-8 lg:block"
-                src="https://tailwindui.com/img/logos/workflow-logo-indigo-600-mark-gray-800-text.svg"
+                src="~/static/logo.png"
                 alt="Workflow"
                 height="143"
                 width="32"

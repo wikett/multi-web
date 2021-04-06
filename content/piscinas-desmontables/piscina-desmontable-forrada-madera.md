@@ -33,78 +33,77 @@ product4_info: 'Medidas piscina: 366 x 76 cm, Capacidad: 6.503 litros, Incluye d
 
 
 
-## ¿Cuánto aguanta una Piscina Desmontable?
+## ¿De qué componente están fabricadas?
 
-Hoy por hoy la mayoría de piscinas desmontables que disponemos en el mercado son de una **calidad** capaz para resistir un verano y muchos más (siempre que se obedezcan las recomendaciones del fabricante). Seguido vamos a aclarar varios puntos a tener en cuenta para tu piscina:
+Un punto a tener en cuenta es la composición con la que están realizadas las **piscinas** desmontables, ya que cada componente da unas ventajas y comprenderlas siempre será una **ventaja** para determinar tu piscina **ideal**.
 
-
-### Grosor del plástico del tanque
-
-Si imaginamos en una **piscina desmontable**, pensamos en una piscina en una parcela con niñ@s saliendo y entrando, por lo que sabes que deben resistir bastante movimiento de las personas. Es por eso que a día de hoy el tanque de la piscina está creado con **vinilos** o **polivinilos** con un espesor idóneo para aguantar todo este peso y **fuerzas**.
-
-Lo único que asegura un	 buen cuidado es seguir las instrucciones del fabricante y tener sentido común: no lanzar objetos punzantes o cortantes que puedan deteriorar este material.
-
-
-### PUNTOS DE ANCLAJE
-
-Los **puntos de anclaje** a menudo son descuidados a la hora de acoplar una piscina desmontable, pero  es que es un eje principal por el que consigue una **excelente** forma para todo el conjunto.| Estos puntos de anclaje es donde se asienta el área para garantizar una buena base que de seguridad y distribuya correctamente **todo el peso**.
-
-<stats-list :link1=link1 :link2=link2 :link3=link3 :link4=link4 :category=category></stats-list>
-
-<external-banner></external-banner>
-
-
-
-### Depuradora
-
-El **mantenimiento** y saneamiento del agua es algo a tener en cuenta para nuestra piscina desmontable si queremos que continúe en los meses futuros. Es un **aspecto** crucial y asegura su exacto comportamiento y proveeremos disgustos a medio y largo plazo.
-
-En la actualidad hay dos tipos de depuradoras de agua, las **depuradoras con filtro de arena** y  las **depuradoras** **con filtro de cartucho.** Las marcas más reconocidas para las depuradoras son **Intex** y **Bestway**.
-
-
-## ¿De qué componente están hechas?
-
-Un detalle a tener en cuenta es el material con la que están hechas las **piscinas** desmontables, ya que cada componente proporciona unas ventajas y conocerlas siempre será una **ventaja** para elegir tu piscina **ideal**.
-
-
-### Piscina  PVC
-
-Las **piscinas tubulares** pvc son una gran opción para tu piscina desmontable o para conservarla **todo el año**. Cuentan una configuración metálica lo que la hace más dura, robusta y maciza. Se integra con un liner de 3 capas de PVC lo cual le da a toda la piscina una buena fuerza. Muy apropiada para largos periodos.
+Si te viene una interrogante en relación con **piscina desmontable forrada madera** que no hemos sido capaces de abordar en concreto, estaremos listos en la sección de _Contacto_ para aclarar cualquier pregunta.
 
 
 ### Piscina de Composite
 
-Las **piscinas de composite** se componen de madera, **resina** y algunos casos de fibra de vidrio, carbono o cerámica. La unión de todos estos elementos desempeña que la piscina de **composite** sea muy rígida al paso de los días e inclemencias meteorológicas.
-
-
-### Piscina de acero
-
-Las **piscinas de acero** son las piscinas con el elemento más firme. Igual que se da con las piscinas de madera, el acero utilizado para la construcción de las piscinas de acero está tratado de tal manera que elude su **oxidación** y se pueda dejar al aire a lo largo de **todo el año**.
+Las **piscinas de composite** se componen de madera, **resina** y algunos casos de fibra de vidrio, carbono o cerámica. La conexión de todos estos componentes hace que la piscina de **composite** sea muy resistente al paso de los días e inclemencias meteorológicas.
 
 
 ### Piscina hinchable
 
- Hoy por hoy muestran unas calidades excelentes para recrearse sin problemas.
+ Normalmente se elaborar tanto en plástico como el liner y otros conjuntos de polímeros lo cual hace una piscina top.
 
 
 ### Piscina de madera
 
-Las **piscinas de madera** son una gran preferencia para notar ese acabado silvestre y natural. La madera está tratada **contra humedad y hongos** por lo que su duración no corre peligro. Esta alternativa de piscina se puede soterrar o semienterrar.
-
-Si te incita cualquier interrogante con respecto a **piscina desmontable forrada madera** que no hemos sabido tratar en profundidad, estaremos listos en el apartado de _Contacto_ para resolver cualquier pregunta.
+Las **piscinas de madera** son una buena opción para sentir ese acabado rústico y natural. La madera está tratada **contra humedad y hongos** por lo que su durabilidad no corre peligro. Esta alternativa de piscina se puede enterrar o semienterrar.
 
 
-## Recomendaciones antes de instalar una piscina
+### Piscina de acero
+
+Las **piscinas de acero** son las piscinas con el elemento más rígido. Igual que pasa con las piscinas de madera, el acero destinado para la construcción de las piscinas de acero está tratado de tal manera que impide su **oxidación** y se permita dejar a fuera a lo largo de **todo el año**.
 
 
+### Piscina  PVC
 
-*   **Quita cables eléctricos cercanos**: es de **sentido común**, pero el agua y la electricidad no son amigos, ya que **corremos** peligro de electrocución. Es por eso que la colocación de nuestra piscina esté colocada lejos de cualquier **circuito eléctrico**. Si tu piscina emplea alguna depuradora o aparato eléctrico, atender excelente su instalación eléctrica para que no salte ningún percance.
-*   **Vigilar al cavar tierra:** tenemos ciertas **piscinas desmontables** que podemos enterrarlas ligeramente en la tierra. Primeramente tendríamos que hacer antes de empezar a materializar el **hueco** es examinar que no pasa **ningún cable eléctrico**, conducto o similar.
-*   No emplazar bajo árboles: Evitaremos que las nidos de pájaros acaben dentro de nuestras piscinas.
+Las **piscinas tubulares** pvc son una excelente elección para tu piscina desmontable o para conservarla **todo el año**. Tienen una estructura metálica lo que la hace más dura, sólida y maciza. Se compone con un liner de 3 capas de PVC lo cual le da a toda la piscina una gran resistencia. Muy apropiada para largos periodos.
 
-<brand-panel :title=product1_title :desc=product1_desc :img=product1_img :link=product1_link></brand-panel>
+
+### Depuradora
+
+El **mantenimiento** y saneamiento del agua es algo que debemos tener en cuenta para nuestra piscina desmontable si deseamos que dure en el tiempo. Es un **aspecto** clave y certifica su exacto comportamiento y proveeremos disgustos a medio y largo plazo.
+
+Hoy en día hay dos tipos de depuradoras de agua, las **depuradoras con filtro de arena** y  las **depuradoras** **con filtro de cartucho.** Las marcas más recomendadas para las depuradoras son **Intex** y **Bestway**.
+
+<stats-list :link1=link1 :link2=link2 :link3=link3 :link4=link4 :category=category></stats-list>
+
+
+## ¿Cuánto resiste una Piscina Desmontable?
+
+En nuestros días la gran parte de piscinas desmontables que tenemos en el mercado son de una **calidad** idónea para tolerar un verano y muchos más (siempre que se obedezcan las recomendaciones del fabricante). Ahora vamos a explicar varios puntos a tener en cuenta para tu piscina:
+
+
+### Grosor del plástico del tanque
+
+Si imaginamos en una **piscina desmontable**, imaginamos en una piscina en un terreno con niños saliendo y entrando, por lo que tienes claro que han de sobrellevar bastante movimiento de niños. Es por eso que a día de hoy el tanque de la piscina está fabricado con **vinilos** o **polivinilos** con un grosor idóneo para resistir todo este peso y **fuerzas**.
+
+Lo único que avala un	 buen cuidado es seguir las indicaciones del fabricante y tener sentido común: no arrojar objetos punzantes o cortantes que puedan deteriorar este material.
+
+
+### PUNTOS DE ANCLAJE
+
+Los **puntos de anclaje** con frecuencia son olvidados a la hora de ensamblar una piscina desmontable, pero  es que es un punto clave por el que mantiene una **gran** constitución para todo el set.| Estos puntos de anclaje es donde se descansa la superficie para respaldar una gran base que de firmeza y reparta correctamente **todo el peso**.
 ## ¿Qué es una Piscina Desmontable?
 
 
 
-Para poder gozar al máximo de tu piscina desmontable este verano 2021 hay que tener en cuenta múltiples detalles para que se adapten a las necesidades tuyas y de tu contexto.
+Para poder gozar al máximo de tu piscina desmontable este verano  hay que comprobar distintos detalles para que se ajustes a las necesidades tuyas y de tu contexto.
+
+
+## Consejos antes de posicionar una piscina
+
+
+
+*   **Evite cables eléctricos próximos**: es de **sentido común**, pero el agua y la electricidad no se complementan ben, ya que **corremos** riesgo de electrocución. Es por eso que la localización de nuestra piscina esté situada lejos de cualquier **circuito eléctrico**. Si tu piscina se sirve de alguna depuradora o aparato eléctrico, cuidar excelente su instalación eléctrica para que no se produzca ningún percance.
+*   **Cuidado al excavar tierra:** existen ciertas **piscinas desmontables** que podemos enterrarlas ligeramente en la tierra. Previamente tendríamos que hacer antes de empezar a llevar a cabo el **hueco** es confirmar que no pasa **ningún cable eléctrico**, conducto o similar.
+*   No poner bajo árboles: Evitaremos que las **excrementos** de animales finalicen dentro de nuestras piscinas.
+
+<brand-panel :title=product1_title :desc=product1_desc :img=product1_img :link=product1_link></brand-panel>
+
+<external-banner></external-banner>

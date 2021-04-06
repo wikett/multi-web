@@ -5,7 +5,7 @@
       <p class="text-xl text-gray-500">
         Especialistas en piscinas desmontables, hinchables, de madera de
         composite y accesorios para todas ellas. Déjate aconsejar por nuestros
-        especialistas y compra
+        especialistas y compra.
         <strong>las mejoras piscinas desmontables</strong> para este verano
         <strong>2021</strong> al mejor precio.
       </p>
@@ -170,7 +170,15 @@ export default {
     },
   },
   head: {
-    title: '¿Quiénes somos?',
+    title: 'Las mejoras piscinas desmontables 2021 | Todopiscinas.info',
+    meta: [
+      {
+        hid: 'description',
+        name: 'description',
+        content:
+          'Especialistas en piscinas desmontables, hinchables, de madera de composite y accesorios para todas ellas. Déjate aconsejar por nuestros  especialistas y compra.',
+      },
+    ],
   },
   async asyncData({ $content }) {
     const page = await $content('home').fetch()
