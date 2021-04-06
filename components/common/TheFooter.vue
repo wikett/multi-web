@@ -64,6 +64,11 @@
         &copy; {{ year.getFullYear() }} {{ websiteName }}. Todos los derechos
         reservados
       </p>
+      <p class="text-xs text-center text-gray-500">
+        Participamos en el Programa de Afiliados de Amazon Product Advertising
+        Api 5.0, este programa nos permite obtener comisiones de los productos
+        que ofrecemos en nuestro sitio web.
+      </p>
     </div>
   </footer>
 </template>

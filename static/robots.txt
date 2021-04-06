@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /*?
+Disallow: /aviso-legal/
+Disallow: /afiliacion/
+Disallow: /politica-de-cookies/
+Disallow: /politica-de-privacidad/
+
+
+User-agent: Mediapartners-Google
+Allow: /
+Disallow: /aviso-legal/
+Disallow: /afiliacion/
+Disallow: /politica-de-cookies/
+Disallow: /politica-de-privacidad/

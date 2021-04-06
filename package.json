@@ -20,12 +20,17 @@
     "@tailwindcss/typography": "^0.4.0",
     "cookie-universal-nuxt": "^2.1.4",
     "core-js": "^3.8.3",
+    "csv-parser": "^3.0.0",
+    "node-spintax": "^1.0.4",
     "nuxt": "^2.14.12",
-    "v-click-outside": "^3.1.2"
+    "v-click-outside": "^3.1.2",
+    "vue-gtag": "^1.11.0",
+    "xmlbuilder": "^15.1.1"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^5.0.0",
     "@nuxtjs/eslint-module": "^3.0.2",
+    "@nuxtjs/google-analytics": "^2.4.0",
     "@nuxtjs/tailwindcss": "^3.4.2",
     "@tailwindcss/postcss7-compat": "^2.0.3",
     "autoprefixer": "^9.8.6",

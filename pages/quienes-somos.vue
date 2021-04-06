@@ -88,13 +88,6 @@ export default {
   },
   head: {
     title: '¿Quiénes somos?',
-    meta: [
-      {
-        hid: 'robots',
-        name: 'robots',
-        content: 'noindex,follow',
-      },
-    ],
   },
 }
 </script>

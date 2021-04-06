@@ -88,6 +88,15 @@
           <div class="hidden sm:ml-6 sm:flex sm:space-x-8">
             <!-- Current: "border-indigo-500 text-gray-900", Default: "border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700" -->
             <nuxt-link
+              v-for="(item, index) in mainMenu"
+              :key="index"
+              :to="item.slug"
+              class="inline-flex items-center px-1 pt-1 text-sm font-medium text-gray-500 border-b-2 border-transparent hover:border-gray-300 hover:text-gray-700"
+            >
+              {{ item.title }}
+            </nuxt-link>
+
+            <!-- <nuxt-link
               to="/"
               class="inline-flex items-center px-1 pt-1 text-sm font-medium text-gray-500 border-b-2 border-transparent hover:border-gray-300 hover:text-gray-700"
             >
@@ -112,7 +121,7 @@
               class="inline-flex items-center px-1 pt-1 text-sm font-medium text-gray-500 border-b-2 border-transparent hover:border-gray-300 hover:text-gray-700"
             >
               Contacto
-            </nuxt-link>
+            </nuxt-link> -->
           </div>
         </div>
         <!-- <div
@@ -164,24 +173,11 @@
       <div class="pt-2 pb-4 space-y-1">
         <!-- Current: "bg-indigo-50 border-indigo-500 text-indigo-700", Default: "border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700" -->
         <nuxt-link
-          to="/contacto"
-          class="block py-2 pl-3 pr-4 text-base font-medium text-indigo-700 border-l-4 border-indigo-500 bg-indigo-50"
-          >Contacto</nuxt-link
-        >
-        <a
-          href="#"
+          v-for="(item, index) in mainMenu"
+          :key="index"
+          :to="item.slug"
           class="block py-2 pl-3 pr-4 text-base font-medium text-gray-500 border-l-4 border-transparent hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700"
-          >Teammmm</a
-        >
-        <a
-          href="#"
-          class="block py-2 pl-3 pr-4 text-base font-medium text-gray-500 border-l-4 border-transparent hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700"
-          >Projects</a
-        >
-        <a
-          href="#"
-          class="block py-2 pl-3 pr-4 text-base font-medium text-gray-500 border-l-4 border-transparent hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700"
-          >Calendar</a
+          >{{ item.title }}</nuxt-link
         >
       </div>
     </div>
@@ -194,8 +190,32 @@ export default {
   data() {
     return {
       isMenuOpened: false,
-      mainMenu: ['Tipos', 'Marcas', 'Mejores Tiendas 2021', 'Contacto'],
+      mainMenu: [
+        {
+          title: 'Inicio',
+          slug: '/',
+        },
+        {
+          title: 'Piscinas desmontables',
+          slug: '/piscinas-desmontables/piscinas-desmontables/',
+        },
+        {
+          title: 'Contacto',
+          slug: '/contacto/',
+        },
+      ],
     }
+  },
+  mounted() {
+    this.isMenuOpened = false
+  },
+  methods: {
+    clickMenu(to) {
+      console.log(to)
+      // this.isMenuOpened = false
+      return '/' + to + '/'
+      // this.$route.push({ name: 'uno' })
+    },
   },
 }
 </script>

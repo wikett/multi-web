@@ -11,10 +11,12 @@ export default {
   },
 
   env: {
-    websiteName: 'Top Peceras',
+    websiteName: 'Todopiscinas.info',
+    webHostname: 'https://toppeceras.es',
     websiteUrl: 'www.toppeceras.es',
     emailContacto: 'chato@gmail.com',
     ceo: 'Julian García',
+    NUXT_ENV_GOOGLE_ANALYTICS_ID: 'G-BRTEZRQNMV',
   },
 
   head: {
@@ -37,7 +39,7 @@ export default {
   css: [],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [],
+  plugins: ['~/plugins/gtag.js'],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
