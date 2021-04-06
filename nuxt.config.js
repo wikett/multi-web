@@ -12,9 +12,9 @@ export default {
 
   env: {
     websiteName: 'Todopiscinas.info',
-    webHostname: 'https://toppeceras.es',
-    websiteUrl: 'www.toppeceras.es',
-    emailContacto: 'chato@gmail.com',
+    webHostname: 'https://todopiscinas.info',
+    websiteUrl: 'www.todopiscinas.info',
+    emailContacto: 'todopiscinasweb@gmail.com',
     ceo: 'Julian García',
     NUXT_ENV_GOOGLE_ANALYTICS_ID: 'G-BRTEZRQNMV',
   },

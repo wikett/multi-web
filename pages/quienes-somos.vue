@@ -49,12 +49,13 @@
                         />
                       </svg>
                       <p class="mt-6 text-2xl font-medium text-white">
-                        Hola! soy Julián García y son un fanático de los peces.
-                        De pequeño empecé con la típica pecera redonda con un
-                        pececillo muy pequeño y mi afición fue creciendo y
-                        creciendo. Ahora me gusta compartir mi conocimiento
-                        sobre este mundo y daros muy buenas recomendaciones de
-                        productos. Nos vemos!
+                        Hola! soy Julián García y son un fanático piscinas.
+                        Desde pequeño en verano nos ibamos a la casa de campo
+                        que tenían mis abuelos y ahí pasamos por todos los tipos
+                        de piscinas. Ahora que ya gasto casi los 40 y con un par
+                        de crios, he seguido investigando sobre el mundo de las
+                        piscinas y en concreto sobre las piscinas desmontables.
+                        Cualquier duda aquí estoy para vosotros!
                       </p>
                     </div>
                     <footer class="mt-6">
